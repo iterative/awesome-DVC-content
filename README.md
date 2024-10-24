@@ -174,8 +174,12 @@ Need support help?
 [Join our Discourse forum](https://discuss.dvc.org/)
 [Email us!](support@dvc.org)
 
- 
 
+Join us on our Social Channels:
+ 
+[![](https://github.com/iterative/DVC-content/blob/main/images/64px-LinkedIn_icon.svg.png)](https://www.linkedin.com/company/dvc-ai) 
+[![](https://github.com/iterative/DVC-content/blob/main/images/x-social-media-round-icon%201.png)]([https://x.com/DVCorg) 
+[![](https://github.com/iterative/DVC-content/blob/main/images/youtube-svgrepo-com%201.png)]([https://www.youtube.com/@dvcorg8370)
  
 
  
