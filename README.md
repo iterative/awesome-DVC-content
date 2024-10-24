@@ -170,8 +170,11 @@ Would you like to see or contribute to some awesome projects that use DVC?  Head
 [Join our Online Course here!](https://learn.dvc.ai)
 
 Need support help?
+
 [Join our Discord Server](https://discordapp.com/invite/dvwXA2N)
+
 [Join our Discourse forum](https://discuss.dvc.org/)
+
 [Email us!](support@dvc.org)
 
 
