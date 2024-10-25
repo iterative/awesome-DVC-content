@@ -188,6 +188,6 @@ Need support help?
 
 Join us on our Social Channels:
  
-[![](https://github.com/iterative/DVC-content/blob/main/images/50-li-icon.svg)](https://www.linkedin.com/company/dvc-ai) [![](https://github.com/iterative/DVC-content/blob/main/images/50-x-icon.svg)]([https://x.com/DVCorg) [![](https://github.com/iterative/DVC-content/blob/main/images/50-yt-icon.svg)]([https://www.youtube.com/@dvcorg8370)
+[![](https://github.com/iterative/DVC-content/blob/main/images/50-li-icon.svg)](https://www.linkedin.com/company/dvc-ai) [![](https://github.com/iterative/DVC-content/blob/main/images/50-x-icon.svg)](https://x.com/DVCorg) [![](https://github.com/iterative/DVC-content/blob/main/images/50-yt-icon.svg)](https://www.youtube.com/@dvcorg8370)
  
  </details>
