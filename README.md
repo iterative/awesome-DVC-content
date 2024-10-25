@@ -1,4 +1,12 @@
+<div style="display: flex; align-items: center; font-weight: 700;">
+    <img src="https://static.iterative.ai/logo/dvc.svg" alt="dvc" style="height: 48px; margin-right: 10px;">
+    <img src="https://static.iterative.ai/logo/datachain-icon.svg" alt="datachain" style="height: 48px; margin-right: 10px;">
+</div>
+
 # Awesome DVC Content
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A repository containing links to the best and most up-to-date DVC/DataChain related content
 
 <details markdown='1'><summary> 🏗️ Iterative Tool Repositories
