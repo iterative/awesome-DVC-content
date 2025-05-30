@@ -175,7 +175,7 @@ A repository containing links to the best and most up-to-date DVC/DataChain rela
 
 Would you like to see or contribute to some awesome projects that use DVC?  Head to our [Awesome Iterative Projects repo](https://github.com/iterative/awesome-iterative-projects).
 
-[Join our Online Course here!](https://learn.dvc.ai)
+[Join our Online Course here!](https://learn.dvc.org)
 
 Need support help?
 
