@@ -101,7 +101,7 @@ A repository containing links to the best and most up-to-date DVC/DataChain rela
 </summary> 
   Our newsletters contain the latest in content from the team, what we're looking at in the industry, and a list of recent content produced by our fantastic community!  
   
-  [Subscribe to the email newsletter](https://dvc.us10.list-manage.com/subscribe?u=a08bf93caae4063c4e6a351f6&id=24c0ecc49a)
+  [Subscribe to the email newsletter](https://dvc.org/community#subscribe)
 
   [Subscribe to the LinkedIn version](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7066535890772242432)
 
