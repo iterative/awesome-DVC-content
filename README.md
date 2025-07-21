@@ -125,7 +125,7 @@ A repository containing links to the best and most up-to-date DVC/DataChain rela
 
   [November 2023 Newsletter](https://mailchi.mp/65a73d280db4/november23)
 
-  [Subscribe to the email newsletter](https://dvc.us10.list-manage.com/subscribe?u=a08bf93caae4063c4e6a351f6&id=24c0ecc49a)
+  [Subscribe to the email newsletter](https://dvc.org/community#subscribe)
 
   [Subscribe to the LinkedIn version](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7066535890772242432)
   
